@@ -6,6 +6,6 @@ DES algorithm is deprecated and replaced by Advanced Encryption Standart (AES).
 This project made for a school assignment.
 <br/>
 <br/>
-The way it works is it takes an 8-character key and data as string.
+The way it works is it takes an 8-character key and data as string,
 <br/>
-Then returns ciphered string.
+then returns ciphered string.
