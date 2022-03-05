@@ -6,6 +6,7 @@ meaning that you use the same key to encrypt and decrypt.
 </br>
 <br/>
 <p>Usage:</p>
+
 ```javascript encryption
 encryptDES("8charkey", "text to be encrypted")
 ```
