@@ -1,11 +1,19 @@
+<h1>Data Encryption Standart (DES) implementation.</h1>
+<br/>
+DES is a symmetric encryption algorithm,
+</br>
+meaning that you use the same key to encrypt and decrypt.
+</br>
+<br/>
+<p>Usage:</p>
+```javascript encryption
+encryptDES("8charkey", "text to be encrypted")
+```
+```javascript decryption
+decryptDES("8charkey", "t3xt 2 be d3crypt3d")
+```
 
-<h1>Data Encryption Standart (DES) algorithm implementation.</h1>
-<br/>
-DES algorithm is deprecated and replaced by Advanced Encryption Standart (AES).
-<br/>
+
 This project made for a school assignment.
 <br/>
-<br/>
-The way it works is it takes an 8-character key and data as string,
-<br/>
-then returns ciphered string.
+DES algorithm is deprecated and replaced by Advanced Encryption Standart (AES).
